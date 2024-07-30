@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Dan4iiiiiK.github.io/Book-List.git",
+  "homepage": "https://Dan4iiiiiK.github.io/Book-List/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
